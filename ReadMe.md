@@ -1,6 +1,7 @@
 # Hello World Docker Application
 
 Ce projet contient une application Python simple qui affiche "Hello, World!" en couleur dans un terminal. 
+
 Cette application est emballée dans un conteneur Docker pour une utilisation facile.
 
 ## Prérequis
@@ -20,6 +21,7 @@ sudo apt install ./docker-desktop-*-amd64.deb
 ```
 ### Windows avec powershell
 Ouvrez PowerShell : Lancez PowerShell en tant qu'administrateur (clic droit sur l'icône PowerShell et sélectionnez "Exécuter en tant qu'administrateur").
+
 Exécutez la commande suivante pour permettre l'exécution de scripts :
 ```Set-ExecutionPolicy Remoteigned ```
 Double clic sur `InstallDocker.ps1`
