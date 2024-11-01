@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Hello World
+Exec=lxterminal -e 'docker run --rm hello-world-app'
+Icon=/usr/share/icons/gnome/48x48/apps/utilities-terminal.png
+Terminal=false
